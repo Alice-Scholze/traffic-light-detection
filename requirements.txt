@@ -1,4 +1,4 @@
-numpy==1.17.2
+numpy==1.22.0
 opencv-python==4.1.1.26
 playsound==1.2.2
 virtualenv==16.7.5
